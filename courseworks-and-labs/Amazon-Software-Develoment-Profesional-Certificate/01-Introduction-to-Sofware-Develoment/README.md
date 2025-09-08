@@ -10,10 +10,10 @@ Esta carpeta contiene el avance del desarrollo de las habilidades técnicas fund
     Mediante Laboratorios - manos en Práctica (hands-on labs) orientado al desarrollo Back-end, implementé los fundamentos de la programación esenciales para el desarrollo de software, a través de escenarios de codificación de aplicación en la vida real. Incluyen:
     * **Sintaxis básica** 
     * **Tipos de datos** Comprensión de los datos primitivos como `byte`, `short`, `int`, `double`, `long` y los tipos de referencia que incluyen las clases como `String` para cadenas de textos.
-    **Estructuras de control** 
-        **Estructuras condicionales** como `if`, `else`, `switch` utiles para que el programa tome decisiones dinámicas adaptándose a las circunstancias, desde la validación de datos hasta el flujo de ejecución.
-        **Bucles** La generación de bucles `for`, `for-each`, `while`, `Do-While` nos permite iterar a través de multiples valores/objetos (datos) y automatizar la ejecución de bloques de código específicos, ahorrando tiempo, reduciendo errores y escribiendo el código más legible
-        **Sentencias de ramificación** `break`, `continue` y `return` útiles para controlar el flujo de ejecicución, salir de bucles, saltar iteraciones y devolver datos.
+    * **Estructuras de control** 
+        * **Estructuras condicionales** como `if`, `else`, `switch` utiles para que el programa tome decisiones dinámicas adaptándose a las circunstancias, desde la validación de datos hasta el             flujo de ejecución.
+        * **Bucles** La generación de bucles `for`, `for-each`, `while`, `Do-While` nos permite iterar a través de multiples valores/objetos (datos) y automatizar la ejecución de bloques de                 código específicos, ahorrando tiempo, reduciendo errores y escribiendo el código más legible
+        * **Sentencias de ramificación** `break`, `continue` y `return` útiles para controlar el flujo de ejecicución, salir de bucles, saltar iteraciones y devolver datos.
 
 * **Diseño Orientado a Objetos (POO):** 
     Útil para el diseño y estructuraración código de manera modular y escalable, aplicando los pilares fundamentales:
