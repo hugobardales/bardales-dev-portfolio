@@ -1,0 +1,3 @@
+En este módulo, empezando con Java, nos sumergimos en la resolución de problemas sencillos para comprender la sintaxis y las capacidades fundamentales del lenguaje. Adquiriendo experiencia práctica en la escritura y ejecución de programas básicos en Java, como la creación de una Maquina de simulación que Expendida Café.
+
+In this module, you'll explore the pivotal role of a software developer and the exciting challenges this skill set unlocks. Starting with Java, you'll dive into solving simple problems to grasp the language's syntax and fundamental capabilities. You'll gain hands-on experience in writing and executing basic Java programs, such as machine coffee simulator.
