@@ -6,7 +6,7 @@ Este programa intensivo me proporcionó una base completa y práctica, desde los
 
 ---
 
-### ## Áreas de Competencia y Proyectos Clave
+### ## Listado de cursos
 
 A continuación, se detalla lo que aprendí y construí en cada etapa de este certificado:
 
