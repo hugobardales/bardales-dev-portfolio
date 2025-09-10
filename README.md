@@ -30,7 +30,7 @@ Este portafolio se construye activamente como parte del currículo del Certifica
 
 * **Programa:** Amazon Software Development Professional Certificate
 * **Estado:**
-    * [x] [1. Introduction to Software Development](./01-Introduction-to-Sofware-Develoment/) ☑️ 
+    * [x] **[01-Introduction-to-Software-Develoment](./01-Introduction-to-Sofware-Develoment/)** ☑️ 
     * [x] 2. Programming with Java ☑️
     * [x] 3. Data Structures and Algorithms *(Actualmente aquí)*
     * [ ] 4. Database Management with Java and SQL
