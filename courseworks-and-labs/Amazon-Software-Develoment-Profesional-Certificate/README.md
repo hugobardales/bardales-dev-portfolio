@@ -10,7 +10,7 @@ Este programa intensivo me proporcionó una base completa y práctica, desde los
 
 A continuación, se detalla lo que aprendí y construí en cada etapa de este certificado:
 
-* **[01-Introduction-to-Software-Develoment](./01-Introduction-to-Sofware-Develoment/Labs/)** : Cimentación de fundamentos de la programación esenciales para el desarrollo de software y metodologías de desarrollo.
+* **[01-Introduction-to-Software-Develoment](./01-Introduction-to-Sofware-Develoment/)** : Cimentación de fundamentos de la programación esenciales para el desarrollo de software y metodologías de desarrollo.
 * **[02-Programming-With-Java](./02-Programming-With-Java/)**: Dominio del core de Java y los pilares de la Programación Orientada a Objetos (POO).
 * **[03-Data-Structures-And-Algorithms](./03-Data-Structures-And-Algorithms/)**: Implementación y análisis de eficiencia (Big O) de estructuras de datos y algoritmos esenciales.
 * **[04-Data-Management-Java-SQL](./04-Data-Management-Java-SQL/)**: Diseño de bases de datos relacionales y conexión de aplicaciones Java a través de JDBC y el patrón DAO.
